@@ -2,8 +2,7 @@
 
 ## Overview
 
-This repository presents a rigorous, data-driven framework for evaluating the effectiveness of outreach strategies in distance learning program admissions. The central hypothesis explores whether completing an admissions quiz correlates significantly with enrollment likelihood—informing ROI-positive interventions such as targeted email campaigns.
-
+This notebook delivers a data-driven framework for analyzing enrollment behavior in a popular Distance Learning Program, with direct implications for conversion strategy and ROI on outreach efforts. By integrating NoSQL data extraction from MongoDB, dynamic visualizations, and inferential statistical methods—including A/B testing, chi-square analysis, and odds ratio estimation—it quantifies the impact of admissions quiz completion on actual enrollments. Leveraging Python tools like pymongo, pandas, plotly, and statsmodels, the analysis connects backend data with actionable insights. Crucially, it informs whether investing in targeted email campaigns to applicants who haven't completed their quiz will yield meaningful enrollment returns—turning raw data into strategic clarity.
 Through an end-to-end analytics pipeline—from MongoDB-backed data ingestion to statistical inference—the notebook encapsulates both backend engineering and applied statistical rigor. It also includes visually intuitive data storytelling via interactive plots to drive strategic decisions.
 
 ## 🔍 Key Objectives
