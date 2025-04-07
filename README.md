@@ -94,7 +94,7 @@ The notebook connects everything: ingesting data from MongoDB, visualizing user 
 
 > 🎓 Insight: Investing in reminder emails or incentives for quiz completion is statistically justified and could yield meaningful enrollment gains.
 
-## 🧠 Why This Matters
+## Why This Matters
 
 In an era of hyper-competition in online education, every conversion point in the admissions funnel matters. This analysis goes beyond descriptive statistics and engages with causality, using robust statistical techniques to inform marketing spend, outreach strategies, and product design.
 
@@ -111,10 +111,10 @@ pip install pandas plotly pymongo statsmodels
 ```
 ## 🛠 Future Directions
 
-- 🌐 Deploy via a REST API or Streamlit/Dash dashboard
-- 📤 Integrate with email APIs (Mailchimp, SendGrid) for real-time automation
-- 🫮 Add support for logistic regression and multivariate analysis
-- 📦 Containerize the stack using Docker for reproducibility
+- Deploy via a REST API or Streamlit/Dash dashboard
+- Integrate with email APIs (Mailchimp, SendGrid) for real-time automation
+- Add support for logistic regression and multivariate analysis
+- Containerize the stack using Docker for reproducibility
 
 ---
 
