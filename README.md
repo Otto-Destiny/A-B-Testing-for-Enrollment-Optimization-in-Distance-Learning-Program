@@ -59,10 +59,10 @@ print(results["statistics"])
 
 The notebook connects everything: ingesting data from MongoDB, visualizing user flows, and performing rigorous statistical analysis. Highlights include:
 
-- ✅ Dynamic cohort creation (quiz completers vs. non-completers)
-- 🫮 Chi-square tests with p-values and power analysis
-- 📉 Interactive plots using `plotly`
-- 📢 Business recommendation on whether to invest in outreach campaigns
+- Dynamic cohort creation (quiz completers vs. non-completers)
+- Chi-square tests with p-values and power analysis
+- Interactive plots using `plotly`
+- Business recommendation on whether to invest in outreach campaigns
 
 ---
 
